@@ -73,7 +73,7 @@ For this lab, you will need to have or create an Okta account with administrator
 
 19. Using the left navigation, select **App integration -> App client settings**.
 
-20. Locate the App client ending in **_clientWeb** and select th newly configured SAML provider. (ex: **OktaAmplifyAuth**).
+20. Locate the App client ending in **_clientWeb** and select the newly configured SAML provider. (ex: **OktaAmplifyAuth**).
 ![asso](images/okta12.png)
 
 21. Click **Save Changes**
