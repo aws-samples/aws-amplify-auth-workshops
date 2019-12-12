@@ -15,7 +15,7 @@ For this workshop, you can follow the steps below to configure a **Facebook** or
 
 3. :exclamation: Navigate to the **Basic** settings page. Copy & paste the **App ID** and **App Secret** into a text file for later use.
 
-4. The **Privacy Policy URL** is now a mandatory field. You can generate a policy [here](https://www.freeprivacypolicy.com/free-privacy-policy-generator.php) or reference the one the one in this Github repository ([privacypolicy.html](https://raw.githubusercontent.com/rjjaegeraws/amplify-auth/master/privacypolicy.html)). Click **Save Changes** after applying a policy url.
+4. The **Privacy Policy URL** is now a mandatory field. You can generate a policy [here](https://www.freeprivacypolicy.com/free-privacy-policy-generator.php) or reference the one the one in this Github repository ([privacypolicy.html](https://raw.githubusercontent.com/aws-samples/aws-amplify-auth-workshops/master/privacypolicy.html)). Click **Save Changes** after applying a policy url.
 
 ![fb2](images/fb/2.png)
 
@@ -31,7 +31,7 @@ For this workshop, you can follow the steps below to configure a **Facebook** or
 
 ![az1](images/amz/1.png)
 
-3. Click the **Create a New Security Profile**. Complete the form by entering a **Name**, **Description**, and **Prvacy URL**. For the **Consent Privacy Notice URL** you can generate a policy [here](https://www.freeprivacypolicy.com/free-privacy-policy-generator.php) or reference the one the one in this Github repository ([privacypolicy.html](https://raw.githubusercontent.com/rjjaegeraws/amplify-auth/master/privacypolicy.html)). Click **Save** after applying a policy url.
+3. Click the **Create a New Security Profile**. Complete the form by entering a **Name**, **Description**, and **Prvacy URL**. For the **Consent Privacy Notice URL** you can generate a policy [here](https://www.freeprivacypolicy.com/free-privacy-policy-generator.php) or reference the one the one in this Github repository ([privacypolicy.html](https://raw.githubusercontent.com/aws-samples/aws-amplify-auth-workshops/master/privacypolicy.html)). Click **Save** after applying a policy url.
 
 ![az4](images/amz/4.png)
 
