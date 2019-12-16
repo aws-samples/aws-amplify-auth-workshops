@@ -16,7 +16,7 @@
 
 ## Launch the stack
 
-[![launch](https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png)](https://console.aws.amazon.com/cloudformation/home?region=us-west-2#/stacks/new?stackName=MOB311Dev&templateURL=https://amplify-auth.s3-us-west-2.amazonaws.com/BuildMachine.yaml)
+[![launch](https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png)](https://console.aws.amazon.com/cloudformation/home?region=us-west-2#/stacks/new?stackName=MOB311Dev&templateURL=https://aws-amplify-auth-workshops.s3-us-west-2.amazonaws.com/BuildMachine.yaml)
 
 or run the command in the CLI:
 
